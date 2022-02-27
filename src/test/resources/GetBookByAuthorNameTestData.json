@@ -1,0 +1,16 @@
+[
+    {
+        "book_name": "H2 Dummy Book 1",
+        "id": "abcd4",
+        "isbn": "abcd",
+        "aisle": 4,
+        "author": "charan"
+    },
+    {
+        "book_name": "H2 Dummy Book 2",
+        "id": "fdsefr343",
+        "isbn": "fdsefr3",
+        "aisle": 43,
+        "author": "charan"
+    }
+]
